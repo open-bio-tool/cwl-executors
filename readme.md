@@ -1,4 +1,4 @@
-from https://www.commonwl.org/#Implementations:
+[Comparison](https://docs.google.com/spreadsheets/d/1tU53k38z_L0QRlP3bvPhL0OttnHxjd_hD6pmIzdmNpw/edit#gid=0) for implementations from https://www.commonwl.org/#Implementations:
 
 | Software                                                       | Description                                                                                                 | Platform support                                                                 | 
 |----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------| 
